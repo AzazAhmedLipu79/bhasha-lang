@@ -1,0 +1,9 @@
+# Build artifacts
+bhasha/build/
+bhasha/bhashac
+
+# Scratch / local
+*.bak
+*.swp
+.DS_Store
+bhasha/docs/*.txt
